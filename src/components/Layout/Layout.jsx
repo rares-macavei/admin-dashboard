@@ -35,7 +35,7 @@ const Layout = () => {
           </div>
 
           <div className={css.profile}>
-            <img src="./profile.png" alt="person image" />
+            <img src="./profile.png" alt="profile" />
             <div className={css.details}>
               <span>Rares Macavei</span>
               <span>raresmacavei15@gmail.com</span>
